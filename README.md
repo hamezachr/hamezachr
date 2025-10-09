@@ -224,21 +224,33 @@ Mindset: Pragmatic, product-focused, clean code & measurable outcomes
 
 ---
 
-## 📈 GitHub Analytics
+
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=hamezachr&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=58A6FF" alt="GitHub Stats"/>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamezachr&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages"/>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api?username=hamezachr&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=58A6FF"
+       alt="All-time GitHub Stats"/>
+  <img height="165"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamezachr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"
+       alt="Top Languages"/>
 </p>
 
-<!-- Optional goodies: uncomment if you want more visuals
+
+
+<!-- Optional: a second all-time stats card (totals snapshot) -->
+<!--
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=hamezachr&theme=tokyonight&hide_border=true&background=0D1117" height="160" alt="Streak Stats"/>
-</p>
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hamezachr&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&column=6" alt="Trophies"/>
+  <img
+    height="165"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=hamezachr&theme=tokyonight"
+    alt="Profile Summary Cards — Totals"
+  />
 </p>
 -->
+
+<!-- Tip: Streak and Activity Graph focus on recent activity (days/months). 
+     If you want ONLY all-time totals, keep them disabled/commented. -->
+
 
 ---
 

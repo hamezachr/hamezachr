@@ -221,11 +221,11 @@ Mindset: Pragmatic, product-focused, clean code & measurable outcomes
 
 
 <!-- If certificates are in French, you can append: — Langue : Français -->
-
+<!-- 
 ---
 
 
-<!-- 
+
 <p align="center">
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=hamezachr&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=58A6FF"
@@ -249,11 +249,11 @@ Mindset: Pragmatic, product-focused, clean code & measurable outcomes
 -->
 
 <!-- Tip: Streak and Activity Graph focus on recent activity (days/months). 
-     If you want ONLY all-time totals, keep them disabled/commented. -->
+     If you want ONLY all-time totals, keep them disabled/commented. 
 
 
 ---
-
+-->
 <div align="center">
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=110&section=footer&animation=twinkling" alt="Footer"/>
   <br/>

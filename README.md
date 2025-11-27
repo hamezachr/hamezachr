@@ -38,12 +38,12 @@
   </p>
 
   <!-- Profile quick stats -->
-    <!-- Profile quick stats -->
+   
   <p>
-    <img
+  <!--   <img
       src="https://komarev.com/ghpvc/?username=hamezachr&label=PROFILE+VIEWS&color=6E59A5&style=for-the-badge"
       alt="Profile views"
-    />
+    />-->
     <img
       src="https://img.shields.io/github/followers/hamezachr?style=for-the-badge&color=4F46E5&labelColor=101010"
       alt="Followers"

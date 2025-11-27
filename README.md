@@ -30,19 +30,30 @@
     <a href="https://github.com/hamezachr" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/GitHub-hamezachr-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=101010" />
     </a>
-    <!-- Optional LinkedIn
-    <a href="https://www.linkedin.com/in/your-handle" target="_blank" rel="noopener noreferrer">
+    <!-- Optional LinkedIn  -->
+    <a href="https://www.linkedin.com/in/hamza-chraim" target="_blank" rel="noopener noreferrer">
       <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=101010" />
     </a>
-    -->
+   
   </p>
 
   <!-- Profile quick stats -->
+    <!-- Profile quick stats -->
   <p>
-    <img src="https://komarev.com/ghpvc/?username=hamezachr&style=for-the-badge&color=6E59A5&labelColor=101010" alt="Profile Views" />
-    <img src="https://img.shields.io/github/followers/hamezachr?style=for-the-badge&color=4F46E5&labelColor=101010" alt="Followers" />
-    <img src="https://img.shields.io/badge/🎯%20Focus-AI%20%26%20Big%20Data-FF6B6B?style=for-the-badge&labelColor=000000&color=FF6B6B"/>
+    <img
+      src="https://komarev.com/ghpvc/?username=hamezachr&label=PROFILE+VIEWS&color=6E59A5&style=for-the-badge"
+      alt="Profile views"
+    />
+    <img
+      src="https://img.shields.io/github/followers/hamezachr?style=for-the-badge&color=4F46E5&labelColor=101010"
+      alt="Followers"
+    />
+    <img
+      src="https://img.shields.io/badge/🎯%20Focus-AI%20%26%20Big%20Data-FF6B6B?style=for-the-badge&labelColor=000000&color=FF6B6B"
+      alt="Focus: AI & Big Data"
+    />
   </p>
+
 </div>
 
 ---

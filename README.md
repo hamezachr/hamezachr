@@ -236,18 +236,18 @@ Mindset: Pragmatic, product-focused, clean code & measurable outcomes
 ---
 
 
-
+  <!-- 
 <p align="center">
   <img height="165"
        src="https://github-readme-stats.vercel.app/api?username=hamezachr&show_icons=true&include_all_commits=true&count_private=true&rank_icon=percentile&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&icon_color=58A6FF"
        alt="All-time GitHub Stats"/>
-  <!-- 
+ -->
   <img height="165"
        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamezachr&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9"
        alt="Top Languages"/>
 </p>
 
- -->
+
 
 <!-- Optional: a second all-time stats card (totals snapshot) -->
 

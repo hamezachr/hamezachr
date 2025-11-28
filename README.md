@@ -232,7 +232,7 @@ Mindset: Pragmatic, product-focused, clean code & measurable outcomes
 
 
 <!-- If certificates are in French, you can append: — Langue : Français -->
-<!-- 
+
 ---
 
 
@@ -246,7 +246,7 @@ Mindset: Pragmatic, product-focused, clean code & measurable outcomes
        alt="Top Languages"/>
 </p>
 
--->
+
 
 <!-- Optional: a second all-time stats card (totals snapshot) -->
 

@@ -249,7 +249,7 @@ Mindset: Pragmatic, product-focused, clean code & measurable outcomes
 -->
 
 <!-- Optional: a second all-time stats card (totals snapshot) -->
-<!--
+
 <p align="center">
   <img
     height="165"
@@ -257,7 +257,7 @@ Mindset: Pragmatic, product-focused, clean code & measurable outcomes
     alt="Profile Summary Cards — Totals"
   />
 </p>
--->
+
 
 <!-- Tip: Streak and Activity Graph focus on recent activity (days/months). 
      If you want ONLY all-time totals, keep them disabled/commented. 

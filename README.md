@@ -232,10 +232,10 @@ Mindset: Pragmatic, product-focused, clean code & measurable outcomes
 
 
 <!-- If certificates are in French, you can append: — Langue : Français -->
-
+  <!-- 
 ---
 
-
+ -->
   <!-- 
 <p align="center">
   <img height="165"
